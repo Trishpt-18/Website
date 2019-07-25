@@ -2,6 +2,14 @@ header {
   background-color: #fdbf9c;  
 }
 
+main {
+  display: grid;
+  grid-template-areas:
+    'aside article article'
+    'aside footer footer';
+  grid-gap: 30px;
+}
+
 aside {
   background-coloe: #ffe68f;
 }

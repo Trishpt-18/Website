@@ -4,6 +4,8 @@ header {
   background-image: url('https://images.unsplash.com/photo-1544094552-172c2153499e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
   background-size: cover;
   background-attachment: fixed;
+  background-position: center;
+  height: 100%;
 }
 
 main {
